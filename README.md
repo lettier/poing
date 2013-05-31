@@ -1,6 +1,6 @@
  ![Alt text](https://raw.github.com/lettier/poing/master/screenshot.jpg)
  
- #POiNG
+ # POiNG
  
  HTML5/CSS3/JavaScript pong clone but with a twist. Utilizes a crude AI and multiple paddles to defend all exit sides. 
  
