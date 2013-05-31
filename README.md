@@ -9,3 +9,4 @@ Press [B] for an extra large paddle.
 Playable at http://www.lettier.com/poing/. 
  
 _(C) 2013 David Lettier._
+http://www.lettier.com/
