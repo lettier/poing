@@ -2,7 +2,9 @@
  
 # POiNG
  
-HTML5/CSS3/JavaScript pong clone but with a twist. Utilizes a crude AI and multiple paddles to defend all exit sides. 
+HTML5/CSS3/JavaScript pong clone but with a twist. Utilizes a crude AI and multiple paddles to defend all exit sides.
+
+Press [B] for an extra large paddle.
  
 Playable at http://www.lettier.com/poing/. 
  
