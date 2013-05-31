@@ -1,9 +1,9 @@
- ![Alt text](https://raw.github.com/lettier/poing/master/screenshot.jpg)
+![Alt text](https://raw.github.com/lettier/poing/master/screenshot.jpg)
  
- # POiNG
+# POiNG
  
- HTML5/CSS3/JavaScript pong clone but with a twist. Utilizes a crude AI and multiple paddles to defend all exit sides. 
+HTML5/CSS3/JavaScript pong clone but with a twist. Utilizes a crude AI and multiple paddles to defend all exit sides. 
  
- Playable at http://www.lettier.com/poing/. 
+Playable at http://www.lettier.com/poing/. 
  
- _(C) 2013 David Lettier._
+_(C) 2013 David Lettier._
