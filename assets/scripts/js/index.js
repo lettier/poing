@@ -1,4 +1,15 @@
-// https://gist.github.com/paulirish/1579671
+/*
+ * 
+ * David Lettier (C) 2013.
+ * 
+ * http://www.lettier.com/
+ * 
+ * JS file for POiNG.
+ * 
+ */
+
+
+// The following stub was taken from https://gist.github.com/paulirish/1579671.
 			
 ( function ( ) 
 {
@@ -32,6 +43,8 @@
 	
 	}
 } ( ) );
+
+// End stub.
 
 var use_css_transform = true;
 
