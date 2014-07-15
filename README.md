@@ -2,10 +2,10 @@
  
 # POiNG
  
-HTML5/CSS3/JavaScript pong clone but with a twist. Utilizes a crude AI and multiple paddles to defend all exit sides.
+HTML5/CSS3/JavaScript Pong clone but with a twist. Utilizes an evolving AI that "breeds" a better player over time.
 
-Press [B] for an extra large paddles.  
-Press [V] to accelerate the ball.  
+Press [D] for debug information.  
+Press [M] to accelerate the ball.  
 Press [R] to reset the match. 
  
 Playable at http://www.lettier.com/poing/. 
