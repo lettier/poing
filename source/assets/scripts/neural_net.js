@@ -4,7 +4,9 @@
  * 
  * http://www.lettier.com/
  * 
- * Code ported and modified to JS from original C++ source ( http://www.ai-junkie.com/ann/evolved/nnt1.html ) as written by Mat Buckland.
+ * Code ported to JS and heavily modified from the 
+ * original C++ source ( http://www.ai-junkie.com/ann/evolved/nnt1.html ) 
+ * as written by Mat Buckland.
  * 
  * Implements a neural network for learning.
  * 
